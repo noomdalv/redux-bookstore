@@ -32,10 +32,12 @@ npm start
 ## Eva Veskova Jackson
 - Github: [@evaveskova](https://github.com/evaveskova)
 - Linkedin: [Eva Veskova Jackson](https://www.linkedin.com/in/evaveskova/)
+- Email: evaveskova@gmail.com
 
 ## Vladimir Luna
 - Github: [@noomdalv](https://github.com/noomdalv/)
 - Linkedin: [Vladimir Luna](https://www.linkedin.com/in/vladlunasan/)
+- Email: vladlunasan@gmail.com
 
 ### 🤝 Contributing
 Contributions, issues and feature requests are welcome!
