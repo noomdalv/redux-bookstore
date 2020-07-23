@@ -10,9 +10,6 @@ This is a CMS for a bookstore where users can add books, remove books, and searc
 -	HTML
 - CSS
 
-### Live Demo
-To view the app on Heroku, [click here](https://redux-bookstore-veskova.herokuapp.com/).
-
 ### How to Use
 * Visit the live link or clone the project in the terminal by running
 ```
